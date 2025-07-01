@@ -6,20 +6,20 @@ EJERCICIOS ARCHIVOS
 1.Dado el archivo de texto files/SalesJan2009.csv, procese el archivo
 para obtener las compras realizadas en un pais dado.
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 2.Dado el archivo de texto files/SalesJan2009.csv, procese el archivo
 para obtener las compras realizadas con un medio de pago dado.
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 CSV
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 
@@ -32,14 +32,14 @@ que practican el deporte ingresado por el usuario.
 
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 
 JSON
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 
@@ -47,25 +47,25 @@ JSON
 que est ́en en un rango de edades dado por el usuario.
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 JSON
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 3.crear JSON con deportes como claves
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 JSON
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 
@@ -74,13 +74,13 @@ componentes clave:valor que son iguales en ambos. Genere un nuevo
 archivo JSON con las coincidencias exactas entre los dos archivos.
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 JSON
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 5.Desarrolle un programa que lea un archivo JSON, en el cual se
@@ -91,12 +91,12 @@ nuevo archivo JSON que para uno de los estudiantes solo guarde el
 promedio de las notas obtenidas.
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 JSON
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 6.Desarrollar un programa que lea un archivo JSON que contiene una
@@ -110,12 +110,12 @@ cadena de entrada es ”h¬l$”, la cadena resultante ser ́ıa ”hola”), y
 guarde el resultado en un nuevo archivo JSON.
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 JSON
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 EJERCICIOS EXCEPCIONES
@@ -124,12 +124,12 @@ EJERCICIOS EXCEPCIONES
 no se encuentran definidas en la lista dada y muestre el mensaje
 Intenta acceder una posici ́on que no est ́a en el arreglo
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 2.Suma entre int y str
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
 
 3.Capture la excepci ́on cuando se trata de obtener una llave que no se
@@ -137,5 +137,5 @@ encuentra en un diccionario y muestre el mensaje
 Intenta acceder una llave que no est ́a en el diccionario
 
 
-![image](https://github.com/user-attachments/assets/2573d4e7-979a-4231-aa1b-8ef039751035)
+![image]()
 
